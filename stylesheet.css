@@ -1,0 +1,21 @@
+.head {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.head2 {
+    text-align: center;
+    
+}
+
+.card {
+    width: 250px;
+    height: 360px;
+    background: url("https://static.cardmarket.com/img/9d3125187541fb6c4189862c2c380344/items/1/STX/557218.jpg") no-repeat;
+    display: inline-block;
+}
+
+.card:hover{
+    background: url("https://static.cardmarket.com/img/9d3125187541fb6c4189862c2c380344/items/1/STX/557218_back.jpg") no-repeat;
+}
